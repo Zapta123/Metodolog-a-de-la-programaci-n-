@@ -1,11 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11">
   <diagram name="Página-1" id="jVk-Cz5AYtAvHD9jy12_">
-    <mxGraphModel dx="1682" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2137" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="41Y_dABhQN9CZgLKrS6q-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-1" target="41Y_dABhQN9CZgLKrS6q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-62" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-2" target="41Y_dABhQN9CZgLKrS6q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-2" value="Ingrese la Base del triangulo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="51" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-4" target="41Y_dABhQN9CZgLKrS6q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-4" value="Leer Base" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.11249999999999999;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-6" target="41Y_dABhQN9CZgLKrS6q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-6" value="Ingrese la altura del triangulo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="261" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-8" target="41Y_dABhQN9CZgLKrS6q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-8" value="Leer Altura" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.11249999999999999;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="365" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-10" target="41Y_dABhQN9CZgLKrS6q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-10" value="Area=(Base*Altura)/2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="471" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Y_dABhQN9CZgLKrS6q-12" target="41Y_dABhQN9CZgLKrS6q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-12" value="El área del triángulo es, &quot;Área&quot;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="570" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="41Y_dABhQN9CZgLKrS6q-14" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="673" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
