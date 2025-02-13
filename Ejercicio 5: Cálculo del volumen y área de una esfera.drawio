@@ -35,7 +35,7 @@
         <mxCell id="qqE1wTDJCGlCCUb7xO_F-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqE1wTDJCGlCCUb7xO_F-46" target="qqE1wTDJCGlCCUb7xO_F-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qqE1wTDJCGlCCUb7xO_F-46" value="V = (3/4)*3.1416Radio**3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qqE1wTDJCGlCCUb7xO_F-46" value="V = (4/3)*3.1416Radio**3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qqE1wTDJCGlCCUb7xO_F-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqE1wTDJCGlCCUb7xO_F-40">
