@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.12">
   <diagram name="Página-1" id="OaZRxNsL9QHM0pjyVaZf">
-    <mxGraphModel>
+    <mxGraphModel dx="1737" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="No6roHmcffp-jAjZKv8g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-1" target="No6roHmcffp-jAjZKv8g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="20" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-2" target="No6roHmcffp-jAjZKv8g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-2" value="Ingresa el primer dato del discriminante." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-4" target="No6roHmcffp-jAjZKv8g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-4" value="Leer B&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.11249999999999999;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-6" target="No6roHmcffp-jAjZKv8g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-6" value="Ingresa el segundo dato del discriminante&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-8" target="No6roHmcffp-jAjZKv8g-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-8" value="Leer A" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.11249999999999999;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-12" target="No6roHmcffp-jAjZKv8g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-12" value="Ingresa el tercer dato del discriminante" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-14" target="No6roHmcffp-jAjZKv8g-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-14" value="Leer C" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.11249999999999999;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-16" target="No6roHmcffp-jAjZKv8g-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-16" value="Discriminante = (B**2)-4A*C" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="No6roHmcffp-jAjZKv8g-18" target="No6roHmcffp-jAjZKv8g-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-18" value="El discriminante es igual a, &quot;Discriminante&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="210" y="830" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="No6roHmcffp-jAjZKv8g-21" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="930" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
