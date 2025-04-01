@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.2">
   <diagram name="Página-1" id="sNI08C_VoBJF_7HSdtUK">
-    <mxGraphModel>
+    <mxGraphModel dx="987" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0hcAER-bdzI8LI7WEbmK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0hcAER-bdzI8LI7WEbmK-1" target="0hcAER-bdzI8LI7WEbmK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hcAER-bdzI8LI7WEbmK-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-50" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hcAER-bdzI8LI7WEbmK-5" value="Lista = [1,4,5,6,7,8,90,2,4,6,7,8,0]&lt;div&gt;nummayor = lista[0]&amp;nbsp;&lt;/div&gt;&lt;div&gt;nummenor = lista[0]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
