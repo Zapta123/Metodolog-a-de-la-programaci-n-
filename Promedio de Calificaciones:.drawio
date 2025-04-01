@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Página-1" id="v8PdhIYwuCudLAagnmIZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sd6z6uuu5QXDcHSuUeRm-1" target="sd6z6uuu5QXDcHSuUeRm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sd6z6uuu5QXDcHSuUeRm-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-8" value="ListaCalif (70,74,80,56,100,85)&lt;div&gt;i = (len(ListaCalif))&lt;/div&gt;&lt;div&gt;SumaTotal = sum(ListaCalif)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sd6z6uuu5QXDcHSuUeRm-13" target="sd6z6uuu5QXDcHSuUeRm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-13" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&quot;Vamos a calcular el promedio de los alumos&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sd6z6uuu5QXDcHSuUeRm-14" target="sd6z6uuu5QXDcHSuUeRm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-14" value="Promedio = SumaTotal&amp;nbsp;/ i&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sd6z6uuu5QXDcHSuUeRm-16" target="sd6z6uuu5QXDcHSuUeRm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-16" value="&quot;Promedio de alumnos es, &quot;Promedio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sd6z6uuu5QXDcHSuUeRm-18" value="FIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
