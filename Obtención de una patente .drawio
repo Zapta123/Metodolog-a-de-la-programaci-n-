@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="26.2.12">
   <diagram name="Página-1" id="lFC9WhPFLKuq6WadtsX4">
-    <mxGraphModel>
+    <mxGraphModel dx="1036" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-1" target="aOMUOj4QYu9ska7EOdWt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-2" target="aOMUOj4QYu9ska7EOdWt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-2" value="&lt;strong&gt;Presentación de la solicitud&lt;/strong&gt; ante el Instituto Mexicano de la Propiedad Industrial (IMPI)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-4" target="aOMUOj4QYu9ska7EOdWt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-4" value="&lt;strong&gt;Examen de forma&lt;/strong&gt;: El IMPI revisa la solicitud para verificar que cumple con los requisitos administrativos.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-6" target="aOMUOj4QYu9ska7EOdWt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-6" value="&lt;strong&gt;Publicación de la solicitud&lt;/strong&gt; en la Gaceta del IMPI, permitiendo que terceros presenten oposiciones en un plazo de 18 meses" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-8" target="aOMUOj4QYu9ska7EOdWt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-8" value="&lt;strong&gt;Examen de fondo&lt;/strong&gt;: Se evalúa la novedad, actividad inventiva y aplicación industrial. Se pueden emitir hasta cuatro oficios para subsanar objeciones" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOMUOj4QYu9ska7EOdWt-10" target="aOMUOj4QYu9ska7EOdWt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-10" value="&lt;strong&gt;Pago de tasas de mantenimiento&lt;/strong&gt;: Durante la vigencia de la patente, el titular debe realizar pagos periódicos para conservar sus derechos" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOMUOj4QYu9ska7EOdWt-12" value="Fin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
