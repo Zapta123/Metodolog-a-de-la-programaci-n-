@@ -72,29 +72,66 @@
         <mxCell id="ZuHbYVunxRSJGYDRrWry-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-43" target="ZuHbYVunxRSJGYDRrWry-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-43" value="&lt;div&gt;nuevo_sueldo = pago_base * 1.05&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-43" value="&lt;div&gt;nuevo_sueldo_1 = pago_base * 1.05&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="43" y="360" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZuHbYVunxRSJGYDRrWry-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-44" target="ZuHbYVunxRSJGYDRrWry-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-44" value="nuevo_sueldo = pago_base * 1.10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-44" value="nuevo_sueldo_2 = pago_base * 1.10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZuHbYVunxRSJGYDRrWry-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-45" target="ZuHbYVunxRSJGYDRrWry-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-45" value="nuevo_sueldo = pago_base * 1.15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-45" value="nuevo_sueldo_3 = pago_base * 1.15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-46" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.503;exitY=0.851;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-46" target="ZuHbYVunxRSJGYDRrWry-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143" y="645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="144" y="680" />
+              <mxPoint x="390" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-46" value="&quot;El nuevo sueldo con aumento del 5% es de&quot;, nuevo_sueldo_1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="43" y="460" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-47" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.829;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-47" target="ZuHbYVunxRSJGYDRrWry-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-47" value="&quot;El nuevo sueldo con aumento del 10% es de&quot;, nuevo_sueldo_2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZuHbYVunxRSJGYDRrWry-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.78;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.486;exitY=0.897;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-48" target="ZuHbYVunxRSJGYDRrWry-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="523" />
+              <mxPoint x="620" y="680" />
+              <mxPoint x="390" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-48" value="&quot;El nuevo sueldo con aumento del 15% es de&quot;, nuevo_sueldo_3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-58" target="ZuHbYVunxRSJGYDRrWry-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-58" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="675" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZuHbYVunxRSJGYDRrWry-60" target="ZuHbYVunxRSJGYDRrWry-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-60" value="&quot;&lt;span style=&quot;background-color: transparent;&quot;&gt;Todos los pagos han sido calculados de acuerdo con su categoría.&lt;/span&gt;&lt;br&gt;&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuHbYVunxRSJGYDRrWry-63" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="840" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
