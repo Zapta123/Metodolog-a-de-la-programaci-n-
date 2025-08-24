@@ -1,9 +1,95 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="27.1.6">
   <diagram name="Página-1" id="VcYoqs_gqOgaO8xYDNTA">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6FhljVI31EnSAqfvUUOw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-1" target="6FhljVI31EnSAqfvUUOw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-1" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Simulación del&amp;nbsp;heap sort&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-2" target="6FhljVI31EnSAqfvUUOw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-2" value="&lt;h4&gt;&lt;strong&gt;Construcción del Max-Heap&lt;/strong&gt;&lt;/h4&gt;&lt;h4&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Se parte de un arreglo desordenado.&lt;/span&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-5" target="6FhljVI31EnSAqfvUUOw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-5" value="&lt;h3&gt;Lista original (desordenada)&lt;/h3&gt;&lt;p&gt;&lt;code&gt;[13, 6, 4, 5, 8, 19, 7]&lt;/code&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-8" target="6FhljVI31EnSAqfvUUOw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-8" value="&lt;h4&gt;&lt;strong&gt;Intercambio entre la raíz y el último elemento&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;El elemento en la raíz del heap (el mayor) se intercambia con el último elemento del arreglo.&lt;/span&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-11" target="6FhljVI31EnSAqfvUUOw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-11" value="&lt;p&gt;Intercambiamos 19 (raíz) con 7 (último).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Lista después del intercambio:&lt;/strong&gt;  &lt;br/&gt;&lt;code&gt;[7, 8, 13, 5, 6, 4, 19]&lt;/code&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-14" target="6FhljVI31EnSAqfvUUOw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-14" value="&lt;h4&gt;&lt;strong&gt;Reducción del heap&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Se reduce el tamaño del heap, excluyendo el último elemento ya ordenado.&lt;/span&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-16" target="6FhljVI31EnSAqfvUUOw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-16" value="&lt;br&gt;&lt;h4&gt;Heapify sobre los primeros 6 elementos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Aplicamos heapify sobre &lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;[7, 8, 13, 5, 6, 4]&lt;/code&gt;&lt;/h4&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-18" target="6FhljVI31EnSAqfvUUOw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-18" value="&lt;h4&gt;&lt;strong&gt;Reorganización del heap (Heapify)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Se aplica heapify desde la raíz para restaurar la propiedad del max-heap.&lt;/span&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-19" target="6FhljVI31EnSAqfvUUOw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-19" value="&lt;h4&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Intercambiamos 13 (índice 0) con 4 (índice 5)&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lista:&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;  &lt;br/&gt;&lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;[4, 8, 7, 5, 6, 13, 19]&lt;/code&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-20" target="6FhljVI31EnSAqfvUUOw-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-20" value="&lt;br&gt;&lt;h4&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Repetición del proceso&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Se repiten los pasos 2 a 4 hasta que todos los elementos estén ordenados.&lt;/span&gt;&lt;/h4&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-21" value="&lt;h4&gt;Heapify sobre los primeros 5 elementos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Aplicamos heapify sobre &lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;[4, 8, 7, 5, 6]&lt;/code&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-26" value="&lt;strong&gt;Resultado:&lt;/strong&gt;&amp;nbsp;&lt;div&gt;&amp;nbsp; &lt;br/&gt;&lt;code&gt;[8, 6, 7, 5, 4, 13, 19]&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FhljVI31EnSAqfvUUOw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6FhljVI31EnSAqfvUUOw-21" target="6FhljVI31EnSAqfvUUOw-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
